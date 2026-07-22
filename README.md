@@ -8,7 +8,7 @@ I am a **JavaScript Developer** and **Computer Science student at UET Peshawar**
 - **Currently Learning:** React.js & Backend Architecture
 
 ### 🏆 Certification:
-- [JavaScript Algorithms and Data Structures (freeCodeCamp)](PASTE_YOUR_CERTIFICATE_URL_HERE)
+- [JavaScript Algorithms and Data Structures (freeCodeCamp)](https://freecodecamp.org/certification/fcc-791318fd-a403-4a8a-97ed-4c5382ec11a0/javascript-v9)
 
 ### 📈 GitHub Stats:
-![Raheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+![Raheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raheel-khan&show_icons=true&theme=radical)
