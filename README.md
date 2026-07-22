@@ -1,14 +1,19 @@
 # Hi there, I'm Raheel Khan! 👋
 
-I am a **JavaScript Developer** and **Computer Science student at UET Peshawar**. I am passionate about building clean, efficient, and user-centric web applications.
+I am a **JavaScript Developer** and **Computer Science student at UET Peshawar**. I focus on building scalable web applications and solving complex algorithmic challenges.
 
-### 🛠 Tech Stack:
+### 🛠 My Tech Stack:
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
 - **Tools:** Git, GitHub, VS Code
-- **Currently Learning:** React.js & Backend Architecture
+- **Education:** BS in Computer Science, UET Peshawar
 
-### 🏆 Certification:
-- [JavaScript Algorithms and Data Structures (freeCodeCamp)](https://freecodecamp.org/certification/fcc-791318fd-a403-4a8a-97ed-4c5382ec11a0/javascript-v9)
+### 🏆 Professional Certifications:
+- [JavaScript Algorithms and Data Structures - freeCodeCamp](https://www.freecodecamp.org/certification/fcc-791318fd-a403-4a8a-97ed-4c5382ec11a0/javascript-v9)
 
-### 📈 GitHub Stats:
-![Raheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raheel-khan&show_icons=true&theme=radical&hide_border=true)
+### 📈 GitHub Statistics:
+![Raheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rk1774589-web&show_icons=true&theme=radical&hide_border=true)
+
+---
+📫 **How to reach me:**
+- **LinkedIn:** [Raheel Khan](https://www.linkedin.com/in/raheel-khan-000947289/)
+- **Email:** rk1774589@gmail.com
